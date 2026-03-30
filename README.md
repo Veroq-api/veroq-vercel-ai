@@ -1,5 +1,9 @@
 # @veroq/ai
 
+[![npm](https://img.shields.io/npm/v/@veroq/ai?color=2EE89A&label=npm)](https://www.npmjs.com/package/@veroq/ai)
+[![Downloads](https://img.shields.io/npm/dm/@veroq/ai?color=2EE89A)](https://www.npmjs.com/package/@veroq/ai)
+[![License](https://img.shields.io/badge/license-MIT-2EE89A)](LICENSE)
+
 VEROQ tools for the [Vercel AI SDK](https://sdk.vercel.ai). Drop verified financial intelligence into any AI SDK agent with one line.
 
 ## Install
